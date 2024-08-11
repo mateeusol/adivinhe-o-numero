@@ -1,5 +1,5 @@
 <h1 align="center"> Jogo do numero secreto</h1>
-<p>É um  jogo onde voce vai adivinhar os numeros de 1 até 10</p>
+<p>Um  jogo onde voce vai adivinhar os numeros de 1 até 10</p>
 
 
 # 🛠️ Abrir e rodar o projeto
