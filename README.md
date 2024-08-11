@@ -5,3 +5,9 @@
 # 🛠️ Abrir e rodar o projeto
 
 https://adivinhe-o-numero-tau.vercel.app
+
+## ✔️ Técnicas e tecnologias utilizadas
+
+- ``JavaScript``
+- ``HTML5``
+- ``CSS``
